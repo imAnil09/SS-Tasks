@@ -1,0 +1,26 @@
+.box{
+    background: black;
+}
+
+.box:hover {
+    background: red;
+}
+
+.yellow:hover {
+    background: yellow;
+}
+.pink:hover{
+    background: pink;
+}
+.blue:hover{
+    background: blue;
+}
+.skyblue:hover{
+    background: skyblue;
+}
+.brown:hover{
+    background: brown;
+}
+.green:hover{
+    background: green;
+}
